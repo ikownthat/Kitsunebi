@@ -2,10 +2,10 @@
 ## 下载
 ### android
 
-<a href="https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="100"></a>
+<a href="https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android"><img src="https://github.com/ikownthat/Kitsunebi/blob/main/download-on-the-google-store.png?raw=true" height="100"></a>
 
 ### apple
-<a href="https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073"><img src="https://developer.apple.com/assets/elements/icons/download-on-the-app-store/download-on-the-app-store.svg" height="75" ></a>
+<a href="https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073"><img src="https://github.com/ikownthat/Kitsunebi/blob/main/download-on-the-apple-store.png?raw=true" height="75" ></a>
 
 
 ## 规则设置 - 使用方法 
